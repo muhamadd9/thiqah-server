@@ -8,10 +8,10 @@ build/
 .swc/
 .eslintcache
 
-# Environment files
-.env
-.env.*
-src/config/.env*
+# # Environment files
+# .env
+# .env.*
+# src/config/.env*
 
 # Uploads and generated assets
 uploads/
